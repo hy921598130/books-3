@@ -4,7 +4,6 @@
 
 </br>
 Table Of Contents
-
 * algorithm
    * [算法.pdf](./algorithm/算法.pdf)
    * [算法导论.pdf](./algorithm/算法导论.pdf)
@@ -19,11 +18,11 @@ Table Of Contents
    * [操作系统精髓与设计原理.pdf](./aducation/操作系统精髓与设计原理.pdf)
    * [深入理解计算机系统.pdf](./aducation/深入理解计算机系统.pdf)
    * [算法导论.pdf](./aducation/算法导论.pdf)
-   * [计算机组成 结构化方法.pdf](./aducation/计算机组成%20%20结构化方法.pdf)
+   * [计算机组成-结构化方法.pdf](./aducation/计算机组成-结构化方法.pdf)
 * java
    * [Java数据结构与算法.pdf](./java/Java数据结构与算法.pdf)
-   * [Java核心技术 卷1 基础知识第9版.pdf](./java/Java核心技术 卷1 基础知识第9版.pdf)
-   * [Java核心技术 卷2 高级特性第9版.pdf](./java/Java核心技术 卷2 高级特性第9版.pdf)
+   * [Java核心技术卷1.pdf](./java/Java核心技术卷1.pdf)
+   * [Java核心技术卷2.pdf](./java/Java核心技术卷2.pdf)
    * [java消息服务.pdf](./java/java消息服务.pdf)
    * [深入剖析Nginx.pdf](./java/深入剖析Nginx.pdf)
    * [深入剖析Tomcat.pdf](./java/深入剖析Tomcat.pdf)
@@ -53,7 +52,7 @@ Table Of Contents
    * [理解专业程序员.pdf](./tools/理解专业程序员.pdf)
    * [程序员的思维修炼.pdf](./tools/程序员的思维修炼.pdf)
    * [设计原本.pdf](./tools/设计原本.pdf)
-   * [重构-改善既有代码的设计 中文版.pdf](./tools/重构-改善既有代码的设计 中文版.pdf)
+   * [重构-改善既有代码的设计.pdf](./tools/重构-改善既有代码的设计.pdf)
    * [集体智慧编程.pdf](./tools/集体智慧编程.pdf)
    * [静心：狂喜的艺术.pdf](./tools/静心：狂喜的艺术.pdf)
    * [领域驱动设计和模式实战.pdf](./tools/领域驱动设计和模式实战.pdf)
