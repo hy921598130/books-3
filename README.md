@@ -4,6 +4,7 @@
 
 </br>
 Table Of Contents
+
 * algorithm
    * [算法.pdf](./algorithm/算法.pdf)
    * [算法导论.pdf](./algorithm/算法导论.pdf)
@@ -27,11 +28,11 @@ Table Of Contents
    * [深入剖析Nginx.pdf](./java/深入剖析Nginx.pdf)
    * [深入剖析Tomcat.pdf](./java/深入剖析Tomcat.pdf)
    * [深入理解java虚拟机.pdf](./java/深入理解java虚拟机.pdf)
-* javaScript
-   * [JavaScript高级程序设计.pdf](./javaScript/JavaScript高级程序设计.pdf)
-   * [jQuery高级编程.pdf](./javaScript/jQuery高级编程.pdf)
-   * [你不知道的JavaScript（上卷）.pdf](./javaScript/你不知道的JavaScript（上卷）.pdf)
-   * [你不知道的JavaScript（中卷）.pdf](./javaScript/你不知道的JavaScript（中卷）.pdf)
+* javascript
+   * [JavaScript高级程序设计.pdf](./javascript/JavaScript高级程序设计.pdf)
+   * [jQuery高级编程.pdf](./javascript/jQuery高级编程.pdf)
+   * [你不知道的JavaScript（上卷）.pdf](./javascript/你不知道的JavaScript（上卷）.pdf)
+   * [你不知道的JavaScript（中卷）.pdf](./javascript/你不知道的JavaScript（中卷）.pdf)
 * linux运维
    * [LINUX+UNIX设计思想.pdf](./linux/LINUX+UNIX设计思想.pdf)
    * [Linux内核完全剖析.pdf](./linux/Linux内核完全剖析.pdf)
