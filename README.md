@@ -19,7 +19,7 @@ Table Of Contents
    * [操作系统精髓与设计原理.pdf](./aducation/操作系统精髓与设计原理.pdf)
    * [深入理解计算机系统.pdf](./aducation/深入理解计算机系统.pdf)
    * [算法导论.pdf](./aducation/算法导论.pdf)
-   * [计算机组成 结构化方法.pdf](./aducation/计算机组成 结构化方法.pdf)
+   * [计算机组成结构化方法.pdf](./aducation/计算机组成 结构化方法.pdf)
 * java
    * [Java数据结构与算法.pdf](./java/Java数据结构与算法.pdf)
    * [Java核心技术 卷1 基础知识第9版.pdf](./java/Java核心技术 卷1 基础知识第9版.pdf)
