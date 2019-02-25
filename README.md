@@ -28,6 +28,9 @@ Table Of Contents
    * [深入剖析Nginx.pdf](./java/深入剖析Nginx.pdf)
    * [深入剖析Tomcat.pdf](./java/深入剖析Tomcat.pdf)
    * [深入理解java虚拟机.pdf](./java/深入理解java虚拟机.pdf)
+   * [CloudNative云化架构.pdf](./java/CloudNative云化架构.pdf)
+   * [Dubbo的过去、现在以及未来.pdf](./java/Dubbo的过去、现在以及未来.pdf)
+   * [去哪儿网消息中间件演进.pdf](./java/去哪儿网消息中间件演进.pdf)
 * javascript
    * [JavaScript高级程序设计.pdf](./javascript/JavaScript高级程序设计.pdf)
    * [jQuery高级编程.pdf](./javascript/jQuery高级编程.pdf)
