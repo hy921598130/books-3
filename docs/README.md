@@ -6,10 +6,10 @@
 Table Of Contents
 
 * algorithm
-   * [算法.pdf](.././algorithm/算法.pdf)
-   * [算法导论.pdf](./algorithm/算法导论.pdf)
-   * [算法引论：一种创造性方法.pdf](./algorithm/算法引论：一种创造性方法.pdf)
-   * [算法设计和分析基础.pdf](./algorithm/算法设计和分析基础.pdf)
+   * [算法.pdf](https://github.com/jianjustin/books/algorithm/算法.pdf)
+   * [算法导论.pdf](https://github.com/jianjustin/books/algorithm/算法导论.pdf)
+   * [算法引论：一种创造性方法.pdf](https://github.com/jianjustin/books/algorithm/算法引论：一种创造性方法.pdf)
+   * [算法设计和分析基础.pdf](https://github.com/jianjustin/books/algorithm/算法设计和分析基础.pdf)
 * 数据库原理
    * [数据库查询优化器的艺术.pdf](./database/数据库查询优化器的艺术.pdf)
    * [数据库系统概念.pdf](./algorithm/数据库系统概念.pdf)
